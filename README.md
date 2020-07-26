@@ -1,4 +1,4 @@
 # Hi there :bug:
 
-Currenty I am working on --> python|sql
+Currenty I am working on --> Python | SQL
 
