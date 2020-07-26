@@ -1,6 +1,5 @@
 # Hi there :bug:
 
-Currenty I am working
+Currenty I am working on
 python|sql
-Previously worked on
-c|java.
+
